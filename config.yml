@@ -1,0 +1,8 @@
+logging:
+  level: INFO
+  loggers:
+    com.java: DEBUG
+mongoHost: localhost
+mongoPort: 27017
+mongoDB: office
+collectionName: Tasks
